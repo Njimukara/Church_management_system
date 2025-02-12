@@ -12,6 +12,11 @@ Ensure you have the following installed:
 
 ## Installation & Setup
 
+### Install Django 
+```
+py -m pip install Django
+```
+
 ### 1️⃣ Clone the Repository
 
 ```sh
